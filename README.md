@@ -1,2 +1,3 @@
 # spume
-ES.Next to ES5/ES20x
+
+A lightweight package manager for Node.js
