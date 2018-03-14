@@ -1,1 +1,1 @@
-# @spume/install-command
+# @spume/command-install
